@@ -1,0 +1,17 @@
+C:\Users\elfal\source\repos\DataAccessLayer\bin\Debug\net9.0\DataAccessLayer.deps.json
+C:\Users\elfal\source\repos\DataAccessLayer\bin\Debug\net9.0\DataAccessLayer.runtimeconfig.json
+C:\Users\elfal\source\repos\DataAccessLayer\bin\Debug\net9.0\DataAccessLayer.dll
+C:\Users\elfal\source\repos\DataAccessLayer\bin\Debug\net9.0\DataAccessLayer.pdb
+C:\Users\elfal\source\repos\DataAccessLayer\bin\Debug\net9.0\Entities.dll
+C:\Users\elfal\source\repos\DataAccessLayer\bin\Debug\net9.0\Entities.pdb
+C:\Users\elfal\source\repos\DataAccessLayer\obj\Debug\net9.0\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\elfal\source\repos\DataAccessLayer\obj\Debug\net9.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elfal\source\repos\DataAccessLayer\obj\Debug\net9.0\DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\elfal\source\repos\DataAccessLayer\obj\Debug\net9.0\DataAccessLayer.AssemblyInfo.cs
+C:\Users\elfal\source\repos\DataAccessLayer\obj\Debug\net9.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\elfal\source\repos\DataAccessLayer\obj\Debug\net9.0\DataAcce.E67BD773.Up2Date
+C:\Users\elfal\source\repos\DataAccessLayer\obj\Debug\net9.0\DataAccessLayer.dll
+C:\Users\elfal\source\repos\DataAccessLayer\obj\Debug\net9.0\refint\DataAccessLayer.dll
+C:\Users\elfal\source\repos\DataAccessLayer\obj\Debug\net9.0\DataAccessLayer.pdb
+C:\Users\elfal\source\repos\DataAccessLayer\obj\Debug\net9.0\DataAccessLayer.genruntimeconfig.cache
+C:\Users\elfal\source\repos\DataAccessLayer\obj\Debug\net9.0\ref\DataAccessLayer.dll
